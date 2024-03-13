@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
-	imageBackground: false,
+	name: 'Bya',
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Whaddya want,',
+	greetingAfternoon: 'Just staph,',
+	greetingEvening: 'Neck it,',
+	greetingNight: 'Hope you die in your sleep',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,20 +53,20 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Gitlab',
+			icon: 'gitlab',
+			link: 'https://gitlab.com/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
+			name: 'Github',
+			icon: 'github',
 			link: 'https://todoist.com',
 		},
 		{
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'U cylinder',
+			icon: 'youtube',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Spotify',
+			icon: 'spotify',
+			link: 'https://spotify.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Whatever',
+					link: 'https://open.spotify.com/playlist/4aSeCMHonCDsnugsGnUrpH?si=eb8f3722a2f9424e',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ba Dum Tss!',
+					link: 'https://open.spotify.com/playlist/5fZ7eQki8epwmOGc9kHWPL?si=2476f1bbce2d48eb',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Dumbass mix',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1EIUphyjF3FqYX?si=ba8f0a13bb9c4e7b',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'I give up...',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1E37AHGfhliOkZ?si=9e9538ce646142c3',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Zephyr OS',
+					link: 'https://docs.zephyrproject.org/latest/index.html',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'ESP-IDF',
+					link: 'https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'tmux for ddummies',
+					link: 'https://tmuxcheatsheet.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Cheap shit from China',
+					link: 'https://www.aliexpress.com/',
 				},
 			],
 		},
