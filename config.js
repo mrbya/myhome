@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://todoist.com',
+			link: 'https://github.com',
 		},
 		{
 			id: '4',
