@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Spotify',
-			icon: 'spotify',
+			icon: 'music-4',
 			link: 'https://spotify.com/',
 		},
 	],
@@ -169,7 +169,7 @@ const CONFIG = {
 					link: 'https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html',
 				},
 				{
-					name: 'tmux for ddummies',
+					name: 'tmux for dummies',
 					link: 'https://tmuxcheatsheet.com/',
 				},
 				{
